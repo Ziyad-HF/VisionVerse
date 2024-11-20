@@ -14,21 +14,21 @@ Imagizer is a PyQt-based desktop application designed for performing a variety o
 - Color to grayscale conversion and frequency domain filtering
 - Hybrid image generation
 
-### 2. [Snaky Detector](https://github.com/Zoz-HF/snaky-detector): Advanced Edge Detection Application
+### 2. [Snaky Detector](https://github.com/Ziyad-HF/snaky-detector): Advanced Edge Detection Application
 
 Snaky Detector utilizes powerful edge detection algorithms to analyze and process images:
 - Active Contour (Snakes) for segmenting complex shapes with smooth edges
 - Hough Transform for detecting lines and circles
 - Canny Edge Detection for robust edge detection and image segmentation
 
-### 3. [Image Descriptor](https://github.com/Zoz-HF/Image_Descriptor.git): Corner Detection and Feature Matching
+### 3. [Image Descriptor](https://github.com/Ziyad-HF/Image_Descriptor.git): Corner Detection and Feature Matching
 
 Image Descriptor is a PyQt desktop application focusing on corner detection and feature extraction:
 - Harris operator and Lambda minus methods for corner detection in grayscale and color images
 - Feature extraction using Scale-Invariant Feature Transform (SIFT)
 - Image matching techniques such as Sum of Squared Differences (SSD) and Normalized Cross-Correlation (NCC)
 
-### 4. [Segmentor](https://github.com/Zoz-HF/Segmentor): Thresholding and Segmentation Application
+### 4. [Segmentor](https://github.com/Ziyad-HF/Segmentor): Thresholding and Segmentation Application
 
 Segmentor is a PyQt application for performing thresholding and segmentation techniques:
 - Optimal thresholding, Otsu's method, spectral thresholding, and local thresholding for grayscale images
@@ -57,7 +57,7 @@ Each application within VisionVerse can be accessed individually. Clone the repo
     <sub><b>Abdulrahman Shawky</b></sub></a>
     </td>
   <td align="center">
-    <a href="https://github.com/Zoz-HF" target="_black">
+    <a href="https://github.com/Ziyad-HF" target="_black">
     <img src="https://avatars.githubusercontent.com/u/99608059?v=4" width="150px;" alt="Ziyad El Fayoumy"/>
     <br />
     <sub><b>Ziyad El Fayoumy</b></sub></a>
